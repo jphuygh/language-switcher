@@ -1,0 +1,22 @@
+{
+  "en": {
+    "heading": "Hello World",
+    "body": "This is some text.",
+    "footer": "Have a nice day!"
+  },
+  "fr": {
+    "heading": "Bonjour le Monde",
+    "body": "Ceci est un texte.",
+    "footer": "Bonne journée!"
+  },
+  "de": {
+    "heading": "Hallo Welt",
+    "body": "Das ist ein Text.",
+    "footer": "Einen schönen Tag noch!"
+  },
+  "it": {
+    "heading": "Ciao Mondo",
+    "body": "Questo è un testo.",
+    "footer": "Buona giornata!"
+  }
+}
